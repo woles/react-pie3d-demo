@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/woles/react-pie3d-demo.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/woles/react-pie3d-demo.git/static/js/main.5750e0e0.chunk.js",
+    "main.js.map": "/woles/react-pie3d-demo.git/static/js/main.5750e0e0.chunk.js.map",
+    "runtime~main.js": "/woles/react-pie3d-demo.git/static/js/runtime~main.960128ad.js",
+    "runtime~main.js.map": "/woles/react-pie3d-demo.git/static/js/runtime~main.960128ad.js.map",
+    "static/js/2.36327965.chunk.js": "/woles/react-pie3d-demo.git/static/js/2.36327965.chunk.js",
+    "static/js/2.36327965.chunk.js.map": "/woles/react-pie3d-demo.git/static/js/2.36327965.chunk.js.map",
+    "index.html": "/woles/react-pie3d-demo.git/index.html",
+    "precache-manifest.17e97b177d1822cecf8aca976f7d83ce.js": "/woles/react-pie3d-demo.git/precache-manifest.17e97b177d1822cecf8aca976f7d83ce.js",
+    "service-worker.js": "/woles/react-pie3d-demo.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/woles/react-pie3d-demo.git/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
